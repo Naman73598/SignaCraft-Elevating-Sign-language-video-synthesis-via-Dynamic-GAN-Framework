@@ -27,6 +27,10 @@ Welcome to SignaCraft, a cutting-edge project aimed at revolutionizing the synth
 
 ## Project Working
 ![Screenshot-1](SignaCraft-Elevating-Sign-language-video-synthesis-via-Dynamic-GAN-Framework\proj1.jpg)
+
+<br>
+<br>
+
 ![Screenshot-2](SignaCraft-Elevating-Sign-language-video-synthesis-via-Dynamic-GAN-Framework\proj2.jpg)
 
 
