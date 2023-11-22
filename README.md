@@ -26,8 +26,8 @@ Welcome to SignaCraft, a cutting-edge project aimed at revolutionizing the synth
 3. Run the synthesis script: `python synthesis_script.py`
 
 ## Project Working
-![](SignaCraft-Elevating-Sign-language-video-synthesis-via-Dynamic-GAN-Framework\proj1.jpg)
-![](SignaCraft-Elevating-Sign-language-video-synthesis-via-Dynamic-GAN-Framework\proj2.jpg)
+![Screenshot-1](SignaCraft-Elevating-Sign-language-video-synthesis-via-Dynamic-GAN-Framework\proj1.jpg)
+![Screenshot-2](SignaCraft-Elevating-Sign-language-video-synthesis-via-Dynamic-GAN-Framework\proj2.jpg)
 
 
 
